@@ -221,7 +221,7 @@ awards:
 
 ## About Me
 
-Shyma Alhuwaider is a PhD candidate in Computer Science at King Abdullah University of Science and Technology (KAUST), specializing in artificial intelligence and computer vision. 
-Her research focuses on test-time adaptation, robust model evaluation, and the development of benchmarks for real-world deployment. 
-She has contributed to peer-reviewed publications in top-tier venues, served as a reviewer, and played key instructional roles in graduate-level machine learning courses. 
-Shyma is driven by a commitment to building adaptive, reliable AI systems capable of performing in dynamic and uncertain environments.
+I am a PhD candidate at KAUST specializing in AI and Computer Vision, with a focus on test-time adaptation, robust model evaluation, and dataset design. 
+My work bridges machine learning theory with real-world applications, particularly in dynamic and evolving environments. 
+I’ve contributed to high-impact research projects, served as a CVPR reviewer, and actively mentor students in deep learning. 
+I’m passionate about building intelligent systems that adapt, learn, and perform reliably in the wild.
