@@ -33,19 +33,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:shyma.alhuwaider@kaust.edu.sa'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/Shay9000
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/shyma-alhuwaider/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Gz5Iea8AAAAJ&hl=en
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
-
 interests:
   - Test Time Adaptation
   - Computational Linguistics
@@ -115,39 +108,6 @@ work:
       - Enhance photo quality. 
       - Resolve database gaps. 
       - Test image recognition application.
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 100
-#         icon: code-bracket
-#       - name: ML
-#         description: ''
-#         percent: 100
-#         icon: chart-bar
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: circle-stack
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-simple-walk
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera
 skills:
   - name: Programming Languages
     items:
@@ -158,7 +118,7 @@ skills:
       - name: C/C++
         description: ''
         percent: 85
-        icon: chip
+        icon: code-bracket
       - name: MATLAB
         description: ''
         percent: 75
@@ -166,11 +126,11 @@ skills:
       - name: Prolog
         description: ''
         percent: 50
-        icon: brain-circuit
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 60
-        icon: database
+        icon: code-bracket
 
   - name: Libraries & Frameworks
     items:
@@ -181,42 +141,42 @@ skills:
       - name: TensorFlow
         description: ''
         percent: 85
-        icon: bolt
+        icon: code-bracket
       - name: scikit-learn
         description: ''
         percent: 80
-        icon: sparkles
+        icon: code-bracket
       - name: NumPy
         description: ''
         percent: 90
-        icon: boxes
+        icon: code-bracket
       - name: Pandas
         description: ''
         percent: 85
-        icon: bar-chart
+        icon: code-bracket
 
   - name: Tools & Platforms
     items:
       - name: Git
         description: ''
         percent: 90
-        icon: git-branch
+        icon: code-bracket
       - name: Jupyter
         description: ''
         percent: 95
-        icon: notebook-pen
+        icon: code-bracket
       - name: Google Colab
         description: ''
         percent: 95
-        icon: cloud
+        icon: code-bracket
       - name: AWS
         description: ''
         percent: 70
-        icon: cloud-upload
+        icon: code-bracket
       - name: Power BI
         description: ''
         percent: 60
-        icon: pie-chart
+        icon: code-bracket
 
 languages:
   - name: English
