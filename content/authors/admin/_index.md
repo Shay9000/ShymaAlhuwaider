@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Shyma YAser Alhuwaider
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shyma
+last_name: Alhuwaider
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💡
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,133 +20,210 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Computer Science PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: KAUST
+    url: https://www.kaust.edu.sa/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:shyma.alhuwaider@kaust.edu.sa'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Shay9000
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/shyma-alhuwaider/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=Gz5Iea8AAAAJ&hl=en
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - Test Time Adaptation
   - Computational Linguistics
-  - Information Retrieval
+  - Generative Models
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Computer Science
+    institution: KAUST
+    date_start: '2022'
+    date_end: 'Ongoing'
+  - area: MSc Applied Mathematics and Computational Science
+    institution: KAUST
+    date_start: '2019'
+    date_end: '2022'
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis:
+      Physics-Informed Neural Networks for Computational Fluid Dynamics
+  - area: BSc Computer Science 
+    institution: PMU
+    date_start: '2015'
+    date_end: '2019'
+  - area: BSc Computer Engineering 
+    institution: PMU
+    date_start: '2015'
+    date_end: '2019'
+    
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Teaching Assistant for Deep Learning for Visual Computing course
+    company_name: KAUST
+    company_url: 'https://www.kaust.edu.sa/en/'
+    company_logo: 'https://www.kaust.edu.sa/ResourcePackages/KAUSTMain/assets/dist/images/kaust-logo.svg'
+    date_start: '2025-01-24'
+    date_end: '2025-05-30'
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Assisting in evaluating graduate-level coursework
+      - Providing technical guidance on deep learning applications in computer vision
+  - position: Machine Learning Pre-sales Specialist 
+    company_name: DELL
+    company_url: 'https://www.dell.com/'
+    company_logo: 'https://www.delldesignsystem.com/images/DellTech_Logo_mobile.svg'
+    date_start: '2022-09-01'
+    date_end: '2022-12-31'
+    summary: |
+      Responsibilities include:
+      - Building scalable AI/ML pipelines for clients
+  - position: Tutor & Organiser 2021 & 2023
+    company_name: Super Artistic AI SAAI Factory
+    company_url: 'https://saai-factory.com/'
+    company_logo: 'https://media.licdn.com/dms/image/v2/C4D03AQG4yAkVSiQ6TA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1622191872859?e=1752105600&v=beta&t=HnISRMt8WesJeAXOPL8f-Fw-6IslRyriLvCWhY38byc'
+    date_start: '2021-06-04'
+    date_end: '2022-09-14'
+    summary: |
+      Responsibilities include:
+      - Organizing a local hackathon
+      - Leading workshops on generative adversarial networks (GANs). 
+      - Demonstrating Music Creative GAN, highlighting its potential in art and creativity.
+  - position: Data Analytics Intern 
+    company_name: Procter & Gamble
+    company_url: 'https://us.pg.com/'
+    company_logo: 'https://images.ctfassets.net/oggad6svuzkv/7znyJc3Y7SecEoKSYKWoaQ/4a24e9015c360799cfb072adcd92cc5e/P_G_Logo_RGB.svg'
+    date_start: '2018'
+    date_end: '2019'
+    summary: |
+      Responsibilities include:
+      - Validating image recognition technology
+      - Enhance photo quality. 
+      - Resolve database gaps. 
+      - Test image recognition application.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 100
+#         icon: code-bracket
+#       - name: ML
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
         percent: 100
-        icon: chart-bar
+        icon: code-bracket
+      - name: C/C++
+        description: ''
+        percent: 85
+        icon: chip
+      - name: MATLAB
+        description: ''
+        percent: 75
+        icon: function-square
+      - name: Prolog
+        description: ''
+        percent: 50
+        icon: brain-circuit
       - name: SQL
         description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: database
+
+  - name: Libraries & Frameworks
+    items:
+      - name: PyTorch
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 95
+        icon: flame
+      - name: TensorFlow
+        description: ''
+        percent: 85
+        icon: bolt
+      - name: scikit-learn
         description: ''
         percent: 80
-        icon: camera
+        icon: sparkles
+      - name: NumPy
+        description: ''
+        percent: 90
+        icon: boxes
+      - name: Pandas
+        description: ''
+        percent: 85
+        icon: bar-chart
+
+  - name: Tools & Platforms
+    items:
+      - name: Git
+        description: ''
+        percent: 90
+        icon: git-branch
+      - name: Jupyter
+        description: ''
+        percent: 95
+        icon: notebook-pen
+      - name: Google Colab
+        description: ''
+        percent: 95
+        icon: cloud
+      - name: AWS
+        description: ''
+        percent: 70
+        icon: cloud-upload
+      - name: Power BI
+        description: ''
+        percent: 60
+        icon: pie-chart
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Arabic
+    percent: 100
+  - name: Spanish
     percent: 25
 
 # Awards.
@@ -154,33 +231,37 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Deep Learning Nano-degree 
+    url: https://www.udacity.com/course/deep-learning-nanodegree--nd101
+    date: '2021-05-16'
+    awarder: Udacity
+    icon: Udacity
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+          Completed the Deep Learning Nanodegree from Udacity, mastering key deep learning architectures including MLPs, RNNs, Transformers, and GANs. Gained hands-on experience designing, building, and deploying end-to-end deep learning solutions. Implemented advanced models from scratch, optimized neural networks, and applied them to real-world applications, demonstrating a solid understanding of both foundational and state-of-the-art techniques in the field.
+  - title: Roberto Rocca Education Program Scholarship
+    url: https://www.tenaris.com/en/news/2018/rocca-saudiarabia
+    date: '2018'
+    awarder: Tenaris
+    icon: award
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Awarded:
+      - First recipient of the Roberto Rocca Education Program scholarship in the Middle East
+      - Selected based on academic excellence, leadership potential, and commitment to innovation in engineering and technology
+
+  - title: NASA Space Apps Challenge – First Place Winner
+    url: https://www.spaceappssaudi.com/
+    date: '2018'
+    awarder: Space Apps Saudi
+    icon: trophy
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Earned:
+      - First place in the NASA Space Apps Challenge (Saudi Arabia)
+      - Proposed and demonstrated a computer vision solution to automatically detect defects in space shuttle components using image analysis
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shyma Alhuwaider is a PhD candidate in Computer Science at King Abdullah University of Science and Technology (KAUST), specializing in artificial intelligence and computer vision. 
+Her research focuses on test-time adaptation, robust model evaluation, and the development of benchmarks for real-world deployment. 
+She has contributed to peer-reviewed publications in top-tier venues, served as a reviewer, and played key instructional roles in graduate-level machine learning courses. 
+Shyma is driven by a commitment to building adaptive, reliable AI systems capable of performing in dynamic and uncertain environments.
