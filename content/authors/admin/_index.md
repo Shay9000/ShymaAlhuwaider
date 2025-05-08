@@ -48,7 +48,7 @@ education:
   - area: PhD in Computer Science
     institution: KAUST
     date_start: '2022-01-01'
-    date_end: 'Ongoing'
+    date_end: '2027-12-30'
   - area: MSc Applied Mathematics and Computational Science
     institution: KAUST
     date_start: '2019-01-01'
