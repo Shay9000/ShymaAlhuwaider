@@ -47,23 +47,23 @@ interests:
 education:
   - area: PhD in Computer Science
     institution: KAUST
-    date_start: '2022'
+    date_start: '2022-01-01'
     date_end: 'Ongoing'
   - area: MSc Applied Mathematics and Computational Science
     institution: KAUST
-    date_start: '2019'
-    date_end: '2022'
+    date_start: '2019-01-01'
+    date_end: '2022-01-01'
     summary: |
       Thesis:
       Physics-Informed Neural Networks for Computational Fluid Dynamics
   - area: BSc Computer Science 
     institution: PMU
-    date_start: '2015'
-    date_end: '2019'
+    date_start: '2015-01-01'
+    date_end: '2019-01-01'
   - area: BSc Computer Engineering 
     institution: PMU
-    date_start: '2015'
-    date_end: '2019'
+    date_start: '2015-01-01'
+    date_end: '2019-01-01'
     
 work:
   - position: Teaching Assistant for Deep Learning for Visual Computing course
