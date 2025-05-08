@@ -100,8 +100,8 @@ work:
     company_name: Procter & Gamble
     company_url: 'https://us.pg.com/'
     company_logo: 'https://images.ctfassets.net/oggad6svuzkv/7znyJc3Y7SecEoKSYKWoaQ/4a24e9015c360799cfb072adcd92cc5e/P_G_Logo_RGB.svg'
-    date_start: '2018'
-    date_end: '2019'
+    date_start: '2018-06-01'
+    date_end: '2018-10-01'
     summary: |
       Responsibilities include:
       - Validating image recognition technology
@@ -200,7 +200,7 @@ awards:
           Completed the Deep Learning Nanodegree from Udacity, mastering key deep learning architectures including MLPs, RNNs, Transformers, and GANs. Gained hands-on experience designing, building, and deploying end-to-end deep learning solutions. Implemented advanced models from scratch, optimized neural networks, and applied them to real-world applications, demonstrating a solid understanding of both foundational and state-of-the-art techniques in the field.
   - title: Roberto Rocca Education Program Scholarship
     url: https://www.tenaris.com/en/news/2018/rocca-saudiarabia
-    date: '2018'
+    date: '2018-10-22'
     awarder: Tenaris
     icon: award
     summary: |
@@ -210,7 +210,7 @@ awards:
 
   - title: NASA Space Apps Challenge – First Place Winner
     url: https://www.spaceappssaudi.com/
-    date: '2018'
+    date: '2018-12-01'
     awarder: Space Apps Saudi
     icon: trophy
     summary: |
